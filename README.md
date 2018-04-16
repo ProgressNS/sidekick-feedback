@@ -5,7 +5,7 @@ With it, you can even develop iOS apps on Windows!
 NativeScript Sidekick is part of the [NativeScript](https://www.nativescript.org) family. 
 
 ## Getting started
-For more information on how to use NativeScript Sidekick, please visit the [documentation website](https://dy0uugugdpwse.cloudfront.net/ab/fusion/docs/latest/documentation.html).
+For more information on how to use NativeScript Sidekick, please visit the [documentation website](https://docs.nativescript.org/sidekick/intro/introduction).
 
 ## Feedback
 We are constantly looking for ways to improve and extend the functionality of NativeScript Sidekick. The feedback that you can offer is invaluable to us and we will be grateful if you take the time to share your thoughts regarding:
