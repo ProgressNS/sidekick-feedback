@@ -7,7 +7,26 @@ NativeScript Sidekick is part of the [NativeScript](https://www.nativescript.org
 ## Getting started
 For more information on how to use NativeScript Sidekick, please visit the [documentation website](https://docs.nativescript.org/sidekick/intro/introduction).
 
-## Feedback
+## Report issues
+To report a problem with NativeScript Sidekick, you should open a new issue in this GitHub repository. To help us resolve the problem faster, we would ask you to share specific information about your environment and the Sidekick logs.
+
+### Gather information about your development environment
+* In NativeScript Sidekick <br/> _Launch Sidekick and select **Help** &#8594; **About** from the top menu_
+* In NativeScript Sidekick for Visual Studio 2017 <br/> _Launch Visual Studio and inspect the **NativeScript Sidekick** output in the **Output** window._ 
+
+### Access the NativeScript Sidekick logs
+* Through Sidekick
+  * In NativeScript Sidekick <br/> _Launch Sidekick and select **Help** &#8594; **Show Logs** from the top menu._
+  * In NativeScript Sidekick for Visual Studio 2017 <br/> _Launch Visual Studio and select **Sidekick** &#8594; **Show Logs** from the main menu._
+* Through file manager or terminal
+  * **On Windows Systems** <br/>
+  In File (Windows) explorer, navigate to `%AppData%\NativeScriptSidekick\Logs`.
+  * **On macOS Systems**<br/>
+  The logs are stored in `~/Library/Application Support/NativeScriptSidekick/Logs`.
+  * **On Linux Systems**<br/>
+  The logs are stored in `~/.config/NativeScriptSidekick/Logs`.
+
+## Share feedback
 We are constantly looking for ways to improve and extend the functionality of NativeScript Sidekick. The feedback that you can offer is invaluable to us and we will be grateful if you take the time to share your thoughts regarding:
 
 - ease of use
