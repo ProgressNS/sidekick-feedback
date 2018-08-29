@@ -17,10 +17,7 @@ _Windows/macOS/Linux/Multiple (if applicable, tell us the specific version of th
 - **CLI extension nativescript-cloud:** 
 - **CLI extension nativescript-starter-kits:** 
 
-> _You can obtain the requested information by following the steps outlined below._
->
->* In NativeScript Sidekick <br/> _Launch Sidekick and select **Help** &#8594; **About** from the top menu_
->* In NativeScript Sidekick for Visual Studio 2017 <br/> _Launch Visual Studio and inspect the **NativeScript Sidekick** output in the **Output** window._ 
+> _How to obtain this information is explained in the [Gather information about your development environment](https://github.com/NativeScript/sidekick-feedback#gather-information-about-your-development-environment) section._
 
 ### Tell us how to recreate the issue in as much detail as possible
 1. Start the application ..
@@ -30,10 +27,4 @@ _Windows/macOS/Linux/Multiple (if applicable, tell us the specific version of th
 _Yes/No_
 
 ### Send the client logs
-_The client logs can help us identify what is causing the issue. You can [create a gist](https://help.github.com/articles/creating-gists/) with the app logs._ 
-
->_You can access the logs by following the steps outlined below._
->
->* In NativeScript Sidekick <br/> _Launch Sidekick and select **Help** &#8594; **Show Logs** from the top menu._
->* In NativeScript Sidekick for Visual Studio 2017 <br/> _Launch Visual Studio and select **Sidekick** &#8594; **Show Logs** from the main menu._
- 
+>_How to obtain the Sidekick logs is explained in the [Access the NativeScript Sidekick logs](https://github.com/NativeScript/sidekick-feedback#access-the-nativescript-sidekick-logs) section. To share them with us, you can [create a gist](https://help.github.com/articles/creating-gists/) with the app logs and send the produced link._
