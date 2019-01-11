@@ -12,7 +12,7 @@ _Windows/macOS/Linux/Multiple (if applicable, tell us the specific version of th
 
 ### Provide the following version numbers that the issue occurs with:
 
-- **NativeScript Sidekick Desktop or Sidekick for Visual Studio:** 
+- **NativeScript Sidekick:** 
 - **NativeScript CLI:** 
 - **CLI extension nativescript-cloud:** 
 - **CLI extension nativescript-starter-kits:** 
