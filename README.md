@@ -1,11 +1,8 @@
 # Welcome to NativeScript Sidekick
-NativeScript Sidekick is your faithful companion for NativeScript development. With Sidekick, you can focus on building the exciting parts of your mobile app and let Sidekick handle the important, but tedious parts. You can use Sidekick's rich starter templates, verified plugins, cloud builds, and debugging all while using your own preferred IDE and tooling.
-With it, you can even develop iOS apps on Windows!
-
-NativeScript Sidekick is part of the [NativeScript](https://www.nativescript.org) family. 
+NativeScript Sidekick is your faithful companion for NativeScript development. With Sidekick, you can focus on building the exciting parts of your mobile app and let Sidekick handle the important, but tedious parts. You can use Sidekick's rich starter templates, verified plugins, and debugging all while using your own preferred IDE and tooling.
 
 ## Getting started
-For more information on how to use NativeScript Sidekick, please visit the [documentation website](https://docs.nativescript.org/sidekick/intro/introduction).
+For more information on how to use NativeScript Sidekick, please visit the [documentation website](https://github.com/ProgressNS/sidekick-docs/wiki).
 
 ## Report issues
 To report a problem with NativeScript Sidekick, you should open a new issue in this GitHub repository. To help us resolve the problem faster, we would ask you to share specific information about your environment and the Sidekick logs.
